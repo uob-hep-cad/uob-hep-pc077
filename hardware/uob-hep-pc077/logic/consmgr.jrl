@@ -1,8 +1,8 @@
-\t (00:08:05) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
-\t (00:08:05)     Journal start - Wed Apr  8 10:50:16 2026
-\t (00:08:05)         Host=IT088130 User=phdgc Pid=39224 CPUs=16
-\t (00:08:05) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
-\t (00:08:05) 
-\t (00:08:05) skill setRedsGlobalTypes()
-\t (00:08:05) skill acns_setGlobalTypes()
-\t (00:11:02)     Journal end - Wed Apr  8 10:53:13 2026
+\t (00:00:09) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Wed Apr  8 11:38:56 2026
+\t (00:00:09)         Host=IT088130 User=phdgc Pid=49212 CPUs=16
+\t (00:00:09) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
+\t (00:00:09) 
+\t (00:00:09) skill setRedsGlobalTypes()
+\t (00:00:09) skill acns_setGlobalTypes()
+\t (00:19:16)     Journal end - Wed Apr  8 11:58:03 2026
