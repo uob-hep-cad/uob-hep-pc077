@@ -1,0 +1,99 @@
+\t (00:00:03) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Apr  8 14:41:50 2026
+\t (00:00:03)         Host=IT088130 User=phdgc Pid=19076 CPUs=16
+\t (00:00:03) CmdLine= allegro C:/Users/phdgc/Downloads/uob-hep-pc077/hardware/uob-hep-pc077/output/uob#2dhep#2dpc077/physical/test1.brd -mpssession phdgc_Project4820 -mpshost IT088130
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged test1
+\d (00:00:03) Design opened: C:/Users/phdgc/Downloads/uob-hep-pc077/hardware/uob-hep-pc077/output/uob#2dhep#2dpc077/physical/test1.brd
+\i (00:00:04) trapsize 4773
+\i (00:00:04) trapsize 4910
+\i (00:00:04) trapsize 4950
+\i (00:00:04) trapsize 4951
+\i (00:00:04) trapsize 4773
+\i (00:00:04) trapsize 8596
+\t (00:00:04) Loading NV GPU Plugin
+\i (00:00:07) updateport SearchPane
+\t (00:00:07) Loading consmgr.cxt 
+\t (00:00:07) Loading acns_formula.cxt 
+\i (00:00:07) generaledit 
+\i (00:00:09) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:12) FORM plc_manual cancel  
+\i (00:00:12) setwindow pcb
+\i (00:00:12) updateport SearchPane
+\i (00:00:12) generaledit 
+\i (00:01:26) netin 
+\i (00:01:26) updateport SearchPane
+\i (00:01:31) setwindow form.niparams
+\i (00:01:31) FORM niparams five_dot_x YES 
+\i (00:01:38) FORM niparams import  
+\t (00:01:38) Starting Cadence Logic Import...
+\i (00:01:38) setwindow pcb
+\i (00:01:38) updateport SearchPane
+\t (00:01:39) SpawnProcessExit background process completed status = 2
+
+\e (00:01:39) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:01:57) setwindow text
+\i (00:01:57) close
+\i (00:02:06) setwindow form.niparams
+\i (00:02:06) FORM niparams browse  
+\i (00:02:12) fillin "menu_cancel"
+\i (00:02:16) FORM niparams close  
+\i (00:02:16) setwindow pcb
+\i (00:02:16) generaledit 
+\i (00:02:26) design sync eco 
+\t (00:02:26) > Generating Physical Netlist
+\t (00:02:26) Starting genfeedformat...
+\t (00:02:26) > Generating Physical Netlist successful
+\t (00:02:26) > Generating Differences
+\t (00:02:26) > Generating Differences failed
+\i (00:02:26) updateport SearchPane
+\t (00:02:26) > Generating Physical Netlist
+\t (00:02:26) Starting genfeedformat...
+\t (00:02:27) > Generating Physical Netlist successful
+\t (00:02:27) > Generating Differences
+\t (00:02:27) > Generating Differences failed
+\i (00:02:27) updateport SearchPane
+\i (00:02:30) QtSignal DesignSyncDialog sync_button clicked
+\t (00:02:30) Starting Cadence Logic Import...
+\e (00:02:30) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:02:31) updateport SearchPane
+\i (00:02:31) generaledit 
+\i (00:02:35) setwindow text
+\i (00:02:35) close
+\i (00:02:39) setwindow pcb
+\i (00:02:39) design sync eco 
+\t (00:02:39) > Generating Physical Netlist
+\t (00:02:39) Starting genfeedformat...
+\t (00:02:40) > Generating Physical Netlist successful
+\t (00:02:40) > Generating Differences
+\t (00:02:40) > Generating Differences failed
+\i (00:02:40) updateport SearchPane
+\t (00:02:40) > Generating Physical Netlist
+\t (00:02:40) Starting genfeedformat...
+\t (00:02:40) > Generating Physical Netlist successful
+\t (00:02:40) > Generating Differences
+\t (00:02:40) > Generating Differences failed
+\i (00:02:40) updateport SearchPane
+\i (00:02:41) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:02:41) QtSignal DesignSyncDialog sch_browse_button clicked
+\i (00:02:44) fillin "menu_cancel"
+\i (00:02:48) QtSignal DesignSyncDialog sch_browse_button clicked
+\i (00:03:33) fillin "menu_cancel"
+\i (00:03:35) QtSignal DesignSyncDialog cancel_button clicked
+\i (00:03:35) generaledit 
+\i (00:03:37) exit 
+\e (00:03:37) Do you want to save the changes you made to test1.brd?
+\i (00:03:39) fillin yes 
+\t (00:03:40) Lic Summary:
+[14:45:27.227936] Cdslmd servers: ppl
+[14:45:27.227936] Feature usage summary:
+[14:45:27.227937] Allegro_X_Platinum_Layout  
+[14:45:27.227938] Allegro_Venture_PCB_Designer  
+[14:45:27.227938] PCB_design_studio  
+[14:45:27.227939] Venture_PCB_Schematic  
+[14:45:27.227939] Allegro_Venture_PCB_Designer2  
+\t (00:03:40)     Journal end - Wed Apr  8 14:45:27 2026
