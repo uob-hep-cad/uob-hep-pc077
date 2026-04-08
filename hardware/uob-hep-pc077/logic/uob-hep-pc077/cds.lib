@@ -1,0 +1,2 @@
+DEFINE worklib ./worklib
+INCLUDE "$CONCEPT_INST_DIR/share/cdssetup/cds.lib"

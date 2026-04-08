@@ -1,0 +1,3 @@
+DEFINE worklib ./worklib
+INCLUDE "$CONCEPT_INST_DIR/share/cdssetup/cds.lib"
+DEFINE cndiscrete Z:/cad/cern_cdslib/lib_psd17.x/pe_cern_lib/cndiscrete
